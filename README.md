@@ -8,7 +8,7 @@ built with n8n, Ollama (LLaMA 3.1), and Docker.
 - LLM: LLaMA 3.1 via Ollama
 - Orchestration: n8n workflows
 - Backend: REST API via n8n webhooks
-- Frontend: HTML/JS chat interface
+- Frontend: HTML/CSS/JS chat interface
 - Database: PostgreSQL
 - Deployment: Docker Compose
 
