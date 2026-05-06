@@ -64,17 +64,3 @@ Check /workflows for exported n8n pipelines.
 Runs fully locally (no cloud)
 Designed for experimentation with AI pipelines
 
----
-# ⚡ Final Git commands
-
-Once everything is clean:
-
-```bash
-git init
-git add .
-git commit -m "RAG AI assistant with n8n + Ollama + frontend UI"
-
-Then:
-
-git remote add origin https://github.com/YOUR_USERNAME/rag-ai-assistant.git
-git push -u origin main
